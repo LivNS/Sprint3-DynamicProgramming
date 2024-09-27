@@ -76,6 +76,10 @@ O fluxo do sistema é organizado da seguinte forma:
 
 5. **Armazenamento e Visualização de Resultados**: Os resultados da simulação são armazenados em um DataFrame, que pode ser acessado a qualquer momento pelo usuário para revisar seu progresso.
 
+## 📊Diagrama 
+
+- https://miro.com/app/board/uXjVLZjQJVA=/?share_link_id=299553624953
+- ![Diagrama](https://github.com/user-attachments/assets/67699a8a-8514-43f3-8319-f3ff792b41cc)
 
 ## 💻Tecnologias Utilizadas
 
