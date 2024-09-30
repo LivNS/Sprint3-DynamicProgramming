@@ -1,0 +1,13 @@
+# bibliotecas necessárias para manipulação de dados e funções matemáticas
+numpy>=1.21.0
+pandas>=1.3.0
+
+# biblioteca para simulação de delay (já embutida, mas mencionada para completude)
+time
+
+# colaboradores
+# ANNY CAROLINA - RM:98295
+# DEBORA AMARAL - RM:550412
+# LEVY JUNIOR - RM:98655
+# LÍVIA NAMBA - RM:97819
+# LUANA CABEZAOLIAS - RM:99320
