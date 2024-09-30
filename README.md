@@ -86,6 +86,7 @@ O fluxo do sistema é organizado da seguinte forma:
 - **Python**: Linguagem de programação utilizada para a implementação da lógica do sistema.
 - **Pandas**: Biblioteca para manipulação e análise de dados, usada para armazenar e processar resultados.
 - **NumPy**: Biblioteca para cálculos numéricos, utilizada para gerar dados aleatórios de simulação.
+- **Miro**: Plataforma de colaboração digital.
 - **Realidade Virtual**: Tecnologias que permitem a simulação de ambientes 3D imersivos.
 
 # 👩‍👩‍👧‍👧Contribuidores
